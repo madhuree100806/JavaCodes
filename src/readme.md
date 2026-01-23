@@ -309,6 +309,7 @@ You can delete files locally, in cloud or both
    ```
 
 3. **Fix merge conflicts:**
+4. 
    ```bash
    git pull origin main
    # Resolve conflicts in files
