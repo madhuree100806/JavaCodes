@@ -25,7 +25,7 @@ public class ArrayLists {
         }
         System.out.println();
 
-        //Example1
+        // Example1
         ArrayList<String> fruits=new ArrayList<>();
         fruits.add("Apple");
         fruits.add("banana");                             //name.add(element)
@@ -75,3 +75,4 @@ public class ArrayLists {
     }
 
 }
+//ArrayLists
